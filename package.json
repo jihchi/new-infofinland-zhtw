@@ -1,10 +1,10 @@
 {
-  "name": "nextjs-notion-starter-kit",
+  "name": "new-infofinland-zhtw",
   "version": "2.0.0",
   "private": true,
-  "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
-  "repository": "transitive-bullshit/nextjs-notion-starter-kit",
+  "description": "InfoFinland 中文台灣 非官方、公眾自願發起的網站，提供 🇫🇮 芬蘭相關資訊，內容由熱心公眾提供.",
+  "author": "Jihchi Lee <achi@987.tw>",
+  "repository": "jihchi/new-infofinland-zhtw",
   "license": "MIT",
   "engines": {
     "node": ">=14.17"
