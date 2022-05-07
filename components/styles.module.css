@@ -55,11 +55,6 @@
   align-items: center;
 }
 
-.copyright {
-  font-size: 80%;
-  padding: 0.5em;
-}
-
 .settings,
 .social {
   user-select: none;
