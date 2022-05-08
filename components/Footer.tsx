@@ -31,6 +31,12 @@ export const FooterImpl: React.FC = () => {
 
   return (
     <footer className={styles.footer}>
+      <div className={styles.copyright}>
+        本網站除另有標示者外，採用
+        &nbsp;<a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/3.0/tw/">CC-BY-3.0-TW-or-later</a>
+        &nbsp;(<a target="_blank" rel="noopener noreferrer"  href="https://creativecommons.org/licenses/by/3.0/tw/legalcode">CC授權 姓名標示 3.0 台灣及其後版本條款</a>)
+        &nbsp;授權予公眾自由取用
+      </div>
       <div className={styles.settings}>
         {hasMounted && (
           <a
