@@ -1,0 +1,46 @@
+---
+layout: ../../layouts/MarkdownLayout.astro
+title: 免試申換駕照
+---
+# 免試申換駕照
+
+## ****台灣駕照申請芬蘭駕照****
+
+> 💡 有任何問題建議先致電駐芬蘭台北代表處詢問
+
+1. 駕照英文譯本 (需至駐芬蘭台北代表處進行文件證明)
+    - 文件證明需準備文件
+        1. [文件證明申請表](https://www.roc-taiwan.org/uploads/sites/126/2015/04/%E6%96%87%E4%BB%B6%E8%AD%89%E6%98%8E%E9%A9%97%E8%AD%89%E7%94%B3%E8%AB%8B%E8%A1%A8.pdf)
+        2. 中華民國護照正本
+        3. 中華民國護照影本
+        4. 中華民國汽車駕照正本 (若過期建議換新)
+        5. 中華民國汽車駕照影本
+        6. [駕照英文譯本範例](/Translation_of_Drivers_License_of_the_Republic_of_China.Taiwan.pdf)
+            - 自行翻譯並打字列印出來；不接受手寫
+            - 翻譯者須至辦事處於領務人員前簽字，由辦事處證明該簽字屬實
+            - 翻譯可參考[台灣駕照英譯解釋](https://www.roc-taiwan.org/uploads/sites/33/2018/12/%E6%B1%BD%E6%A9%9F%E8%BB%8A%E9%A7%95%E7%85%A7%E7%BF%BB%E8%AD%AF%E8%AA%AA%E6%98%8E-062618.pdf)
+    - 文件證明轉帳繳費
+        - 每份文件 **13 €**
+        - 銀行名稱：Consular Division, Taipei Representative Office in Finland
+        - 銀行帳號 Nordea：`FI81 1200 3000 0418 89`
+        - 印出 或 電郵至 `fin@mofa.gov.tw`
+    - 電郵 `fin@mofa.gov.tw` 或 電話 `+358 9 68293800`預約辦理時間
+    - 一般件約 7-10 個工作天
+2. 醫生開立之駕照體檢證明 (medical certificate)
+    - 提供體檢證明之診所醫院
+        1. [Itäkeskuksen Poliklinikka](https://www.itakeskuksenpoliklinikka.fi/yhteystiedot.htm)
+            - 費用：35 €
+            - 地址：Turunlinnantie 4 B, 4. kerros, 00930 Helsinki
+            - 電話：09-3239240
+            - 電話預約時間，檢查完即可取得醫生證明
+3. 護照或身分證證件 (e.g. Finnish ID Card)
+4. 駕照照片 2 張
+5. 至 [Ajovarma](https://infofinland.tw/[https://www.ajovarma.fi/driving-licences-and-permits](https://www.ajovarma.fi/c/common/aboa/reservation/public-entry-point?language=en&productNumber=5010)) 預約換發駕照 (Exchanging foreign driving licence for a Finnish licence)
+    - 費用 39 €
+
+## 官方網站
+
+### 駐芬蘭台北代表處
+
+- 問答集 -> [免試申換駕照](https://www.roc-taiwan.org/fi/post/1066.html)
+- 領務 -> [文件證明](https://www.roc-taiwan.org/fi/post/1062.html)

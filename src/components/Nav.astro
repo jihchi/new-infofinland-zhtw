@@ -1,0 +1,17 @@
+---
+const categories = await Astro.glob<Frontmatter>('../pages/category/*.md');
+categories.sort((a, b) => a.frontmatter.title.localeCompare(b.frontmatter.title));
+---
+<style>
+  ul {
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+  }
+</style>
+<nav>
+  <ul>
+    <li><a href="/">InfoFinland 中文台灣</a></li>
+    {categories.map(category => <li><a href={category.url}>{category.frontmatter.title}</a></li>)}
+  </ul>
+</nav>
