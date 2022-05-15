@@ -1,0 +1,12 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Nav from '../components/Nav.astro';
+
+const { content } = Astro.props;
+---
+<BaseLayout title={content.title}>
+  <Nav />
+  <main>
+    <slot />
+  </main>
+</BaseLayout>

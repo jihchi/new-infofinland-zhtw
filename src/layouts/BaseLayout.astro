@@ -1,0 +1,16 @@
+---
+import 'normalize.css';
+import 'sakura.css';
+
+const { title } = Astro.props;
+---
+<html lang="zh-tw">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>InfoFinland 中文台灣{ title ? ` - ${title}` : ''}</title>
+	</head>
+  <body>
+    <slot />
+  </body>
+</html>

@@ -1,0 +1,23 @@
+---
+layout: ../../layouts/MarkdownLayout.astro
+title: 醫療
+---
+# 醫療
+
+## 內容貢獻
+
+- Pei-Yu Liu
+
+## ****藥局****
+
+- 芬蘭文 Apteekki
+
+[apteekki](https://www.google.com.tw/maps/search/apteekki/)
+
+- 綠色十字 logo，長的很像：
+![Apteekki 藥局](/apteekki_1641626006272_0.jpeg)
+
+### 普拿疼 Panadol
+
+- 這個是小朋友的普拿疼，膏狀，吞嚥方便，要在藥房才有
+![小朋友的普拿疼 Panadol](/Panadol_oiraalisuspensio_60_ml_1641622804545_0.png)
