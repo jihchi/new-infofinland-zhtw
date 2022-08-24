@@ -1,5 +1,5 @@
 ---
-const categories = await Astro.glob<Frontmatter>('../pages/category/*.md');
+const categories = await Astro.glob<Frontmatter>('../pages/category/*.mdx');
 categories.sort((a, b) => a.frontmatter.title.localeCompare(b.frontmatter.title));
 ---
 <style>
