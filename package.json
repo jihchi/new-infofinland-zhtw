@@ -10,9 +10,10 @@
     "preview": "astro preview"
   },
   "devDependencies": {
-    "@astrojs/mdx": "^0.10.1",
+    "@astrojs/mdx": "^0.10.3",
     "@astrojs/sitemap": "^1.0.0",
-    "astro": "1.0.8"
+    "astro": "1.0.8",
+    "rollup": "^3.3.0"
   },
   "dependencies": {
     "normalize.css": "^8.0.1",
