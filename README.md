@@ -1,4 +1,4 @@
-[![Check Links](https://github.com/org/repo/actions/workflows/links.yml/badge.svg)](https://github.com/org/repo/actions/workflows/links.yml)
+[![Check Links](https://github.com/jihchi/new-infofinland-zhtw/actions/workflows/links.yml/badge.svg)](https://github.com/jihchi/new-infofinland-zhtw/actions/workflows/links.yml)
 
 # Information About Finland in Traditional Chinese (Taiwan) 
 
