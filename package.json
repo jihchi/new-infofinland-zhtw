@@ -2,12 +2,15 @@
   "name": "new-infofinland-zhtw",
   "version": "0.0.1",
   "private": true,
-  "packageManager": "pnpm@8.6.5",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "dev": "astro dev",
+    "preview": "astro preview",
+    "start": "astro dev"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "sakura.css": "^1.4.1"
   },
   "devDependencies": {
     "@astrojs/mdx": "^0.19.7",
@@ -15,8 +18,8 @@
     "astro": "2.7.2",
     "rollup": "^3.26.0"
   },
-  "dependencies": {
-    "normalize.css": "^8.0.1",
-    "sakura.css": "^1.4.1"
+  "packageManager": "pnpm@8.6.5",
+  "engines": {
+    "node": "18.x"
   }
 }
