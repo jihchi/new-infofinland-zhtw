@@ -17,13 +17,13 @@ importers:
     devDependencies:
       '@astrojs/mdx':
         specifier: ^3.1.3
-        version: 3.1.3(astro@4.13.1(@types/node@17.0.45)(typescript@5.1.6))
+        version: 3.1.3(astro@4.13.3(@types/node@17.0.45)(typescript@5.1.6))
       '@astrojs/sitemap':
         specifier: ^3.1.6
         version: 3.1.6
       astro:
-        specifier: ^4.13.1
-        version: 4.13.1(@types/node@17.0.45)(typescript@5.1.6)
+        specifier: ^4.13.3
+        version: 4.13.3(@types/node@17.0.45)(typescript@5.1.6)
       rollup:
         specifier: ^4.20.0
         version: 4.20.0
@@ -417,9 +417,6 @@ packages:
     resolution: {integrity: sha512-R8gLRTZeyp03ymzP/6Lil/28tGeGEzhx1q2k703KGWRAI1VdvPIXdG70VJc2pAMw3NA6JKL5hhFu1sJX0Mnn/A==}
     engines: {node: '>=6.0.0'}
 
-  '@jridgewell/sourcemap-codec@1.4.15':
-    resolution: {integrity: sha512-eF2rxCRulEKXHTRiDrDy6erMYWqNw4LPdQ8UQA4huuxaQsVeRPFl2oM8oDGxMFhJUWZf9McpLtJasDDZb/Bpeg==}
-
   '@jridgewell/sourcemap-codec@1.5.0':
     resolution: {integrity: sha512-gv3ZRaISU3fjPAgNsriBRqGWQL6quFx04YMPW/zD8XMLsU32mhCCbfbO6KZFLjvYpCZ8zyDEgqsgf+PwPaM7GQ==}
 
@@ -629,8 +626,8 @@ packages:
     resolution: {integrity: sha512-ISvCdHdlTDlH5IpxQJIex7BWBywFWgjJSVdwst+/iQCoEYnyOaQ95+X1JGshuBjGp6nxKUy1jMgE3zPqN7fQdg==}
     hasBin: true
 
-  astro@4.13.1:
-    resolution: {integrity: sha512-VnMjAc+ykFsIVjgbu9Mt/EA1fMIcPMXbU89h3ATwGOzSIKDsQH72bDgfJkWiwk6u0OE90GeP5EPhAT28Twf9oA==}
+  astro@4.13.3:
+    resolution: {integrity: sha512-MyhmM0v5sphiVwxAm5jjKxWeuPZijWPJ8Ajdign9QzEmLWSH8vUYIJWx/dWRQ6vF1I0jXrksoj3wtw5nzXt9nw==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=21.0.0, npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
@@ -751,15 +748,6 @@ packages:
     resolution: {integrity: sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==}
     engines: {node: '>=4'}
     hasBin: true
-
-  debug@4.3.5:
-    resolution: {integrity: sha512-pt0bNEmneDIvdL1Xsd9oDQ/wrQRkXDT4AUWlNZNPKvW5x/jyO9VFXkJUP07vQ2upmw5PlaITaPKc31jK13V+jg==}
-    engines: {node: '>=6.0'}
-    peerDependencies:
-      supports-color: '*'
-    peerDependenciesMeta:
-      supports-color:
-        optional: true
 
   debug@4.3.6:
     resolution: {integrity: sha512-O/09Bd4Z1fBrU4VzkhFqVgpPzaGbw6Sm9FEkBT1A/YBXQFGuuSxa1dN2nxgxS34JmKXqYx8CZAwEVoJFImUXIg==}
@@ -1814,12 +1802,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@3.1.3(astro@4.13.1(@types/node@17.0.45)(typescript@5.1.6))':
+  '@astrojs/mdx@3.1.3(astro@4.13.3(@types/node@17.0.45)(typescript@5.1.6))':
     dependencies:
       '@astrojs/markdown-remark': 5.2.0
       '@mdx-js/mdx': 3.0.1
       acorn: 8.12.1
-      astro: 4.13.1(@types/node@17.0.45)(typescript@5.1.6)
+      astro: 4.13.3(@types/node@17.0.45)(typescript@5.1.6)
       es-module-lexer: 1.5.4
       estree-util-visit: 2.0.0
       github-slugger: 2.0.0
@@ -2143,21 +2131,19 @@ snapshots:
   '@jridgewell/gen-mapping@0.3.5':
     dependencies:
       '@jridgewell/set-array': 1.2.1
-      '@jridgewell/sourcemap-codec': 1.4.15
+      '@jridgewell/sourcemap-codec': 1.5.0
       '@jridgewell/trace-mapping': 0.3.25
 
   '@jridgewell/resolve-uri@3.1.0': {}
 
   '@jridgewell/set-array@1.2.1': {}
 
-  '@jridgewell/sourcemap-codec@1.4.15': {}
-
   '@jridgewell/sourcemap-codec@1.5.0': {}
 
   '@jridgewell/trace-mapping@0.3.25':
     dependencies:
       '@jridgewell/resolve-uri': 3.1.0
-      '@jridgewell/sourcemap-codec': 1.4.15
+      '@jridgewell/sourcemap-codec': 1.5.0
 
   '@mdx-js/mdx@3.0.1':
     dependencies:
@@ -2352,7 +2338,7 @@ snapshots:
 
   astring@1.8.6: {}
 
-  astro@4.13.1(@types/node@17.0.45)(typescript@5.1.6):
+  astro@4.13.3(@types/node@17.0.45)(typescript@5.1.6):
     dependencies:
       '@astrojs/compiler': 2.10.1
       '@astrojs/internal-helpers': 0.4.1
@@ -2533,10 +2519,6 @@ snapshots:
       which: 2.0.2
 
   cssesc@3.0.0: {}
-
-  debug@4.3.5:
-    dependencies:
-      ms: 2.1.2
 
   debug@4.3.6:
     dependencies:
@@ -3385,7 +3367,7 @@ snapshots:
   micromark@4.0.0:
     dependencies:
       '@types/debug': 4.1.8
-      debug: 4.3.5
+      debug: 4.3.6
       decode-named-character-reference: 1.0.2
       devlop: 1.1.0
       micromark-core-commonmark: 2.0.1
