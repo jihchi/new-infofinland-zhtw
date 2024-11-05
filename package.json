@@ -13,7 +13,7 @@
     "sakura.css": "^1.5.0"
   },
   "devDependencies": {
-    "@astrojs/mdx": "^3.1.8",
+    "@astrojs/mdx": "^3.1.9",
     "@astrojs/sitemap": "^3.2.1",
     "astro": "^4.16.7",
     "rollup": "^4.24.4"
