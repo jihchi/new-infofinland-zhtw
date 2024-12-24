@@ -16,7 +16,7 @@
     "@astrojs/mdx": "^4.0.2",
     "@astrojs/sitemap": "^3.2.1",
     "astro": "^5.1.1",
-    "rollup": "^4.28.1"
+    "rollup": "^4.29.1"
   },
   "packageManager": "pnpm@9.0.6",
   "engines": {
