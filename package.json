@@ -15,7 +15,7 @@
   "devDependencies": {
     "@astrojs/mdx": "^4.2.5",
     "@astrojs/sitemap": "^3.4.0",
-    "astro": "^5.7.7",
+    "astro": "^5.7.12",
     "rollup": "^4.40.2"
   },
   "packageManager": "pnpm@9.0.6",
