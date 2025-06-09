@@ -14,9 +14,9 @@
   },
   "devDependencies": {
     "@astrojs/mdx": "^4.3.0",
-    "@astrojs/sitemap": "^3.4.0",
-    "astro": "^5.8.1",
-    "rollup": "^4.41.1"
+    "@astrojs/sitemap": "^3.4.1",
+    "astro": "^5.9.2",
+    "rollup": "^4.42.0"
   },
   "packageManager": "pnpm@9.0.6",
   "engines": {
